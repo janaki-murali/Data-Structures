@@ -1,4 +1,4 @@
-/*Program for coverting an infix expression to prefix expression using stack
+/*To covert an infix expression to prefix expression using stack
 ->Before starting operation, there is no need to append the string with '(' and push stack with ')'*/
 
 #include <stdio.h>
