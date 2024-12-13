@@ -1,4 +1,4 @@
-/*To represent graph in Adjaceny Matrix using linked list*/
+/*To represent graph in Adjaceny Matrix using array*/
 
 #include <stdio.h>
 #define size 10
