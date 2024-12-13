@@ -1,5 +1,5 @@
 /*Program for coverting an infix expression to prefix expression using stack
-->Before starting operation, there is no need to append the string with '(' and push stack with ')*/
+->Before starting operation, there is no need to append the string with '(' and push stack with ')'*/
 
 #include <stdio.h>
 #include <string.h>
