@@ -19,7 +19,7 @@ void Insetion_Sort(int arr[],int n)
 void main()
 {
     int n,arr[25];
-    printf("Number of elements : ");
+    printf("Number of elements in the array : ");
     scanf("%d",&n);
     printf("Enter the elements : ");
     for(int i=0;i<n;i++)
