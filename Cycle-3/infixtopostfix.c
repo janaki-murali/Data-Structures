@@ -1,6 +1,5 @@
 /*To covert an infix expression to postfix expression using stack
-->Before starting operation append the string with ')' and push stack with '('
-->Where ever pop operation done always check top!=-1 condition*/
+->Before starting operation append the string with ')' and push stack with '('*/
 
 #include <stdio.h>
 #include <string.h>
