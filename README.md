@@ -2,12 +2,6 @@
 
 Welcome to the **Data Structures in C** repository! This repository contains implementations of fundamental data structures and algorithms using the **C programming language**. The focus is on providing clear and efficient code for various data structures with variations, helping others learn and implement them.
 
-## Table of Contents
-
-- [Data Structures Implemented](#data-structures-implemented)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Data Structures Implemented
 
 This repository includes the following data structures and their variations:
