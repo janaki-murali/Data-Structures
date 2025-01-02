@@ -5,7 +5,6 @@ Welcome to the **Data Structures in C** repository! This repository contains imp
 ## Table of Contents
 
 - [Data Structures Implemented](#data-structures-implemented)
-- [Installation Instructions](#installation-instructions)
 - [Contributing](#contributing)
 - [License](#license)
 
